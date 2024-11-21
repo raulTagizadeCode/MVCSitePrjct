@@ -1,0 +1,5 @@
+C:\Users\MyLPT\source\repos\MVCproject\MVPClassLib\obj\Debug\net8.0\MVPClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyLPT\source\repos\MVCproject\MVPClassLib\obj\Debug\net8.0\MVPClassLib.AssemblyInfoInputs.cache
+C:\Users\MyLPT\source\repos\MVCproject\MVPClassLib\obj\Debug\net8.0\MVPClassLib.AssemblyInfo.cs
+C:\Users\MyLPT\source\repos\MVCproject\MVPClassLib\obj\Debug\net8.0\MVPClassLib.csproj.CoreCompileInputs.cache
+C:\Users\MyLPT\source\repos\MVCproject\MVPClassLib\obj\Debug\net8.0\MVPClassLib.MvcApplicationPartsAssemblyInfo.cache

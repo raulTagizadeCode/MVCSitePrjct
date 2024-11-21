@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\rault\\source\\repos\\purplebuzz\\purplebuzz\\areas\\admin\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\areas\\admin\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\rault\\source\\repos\\purplebuzz\\purplebuzz\\areas\\admin\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\areas\\admin\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\rault\\source\\repos\\purplebuzz\\purplebuzz\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\rault\\source\\repos\\purplebuzz\\purplebuzz\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\rault\\source\\repos\\purplebuzz\\purplebuzz\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\rault\\source\\repos\\purplebuzz\\purplebuzz\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\rault\\source\\repos\\purplebuzz\\purplebuzz\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\rault\\source\\repos\\purplebuzz\\purplebuzz\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\rault\\source\\repos\\purplebuzz\\purplebuzz\\areas\\admin\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\areas\\admin\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\rault\\source\\repos\\purplebuzz\\purplebuzz\\models\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\models\\work.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\rault\\source\\repos\\purplebuzz\\purplebuzz\\models\\ourteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\models\\ourteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\rault\\source\\repos\\purplebuzz\\purplebuzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\rault\\source\\repos\\purplebuzz\\purplebuzz\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\rault\\source\\repos\\purplebuzz\\purplebuzz\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\rault\\source\\repos\\purplebuzz\\purplebuzz\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\rault\\source\\repos\\purplebuzz\\purplebuzz\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\rault\\source\\repos\\purplebuzz\\purplebuzz\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\rault\\source\\repos\\purplebuzz\\purplebuzz\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\rault\\source\\repos\\purplebuzz\\purplebuzz\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\rault\\source\\repos\\purplebuzz\\purplebuzz\\controllers\\ourteamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\controllers\\ourteamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\rault\\source\\repos\\purplebuzz\\purplebuzz\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\rault\\source\\repos\\purplebuzz\\purplebuzz\\migrations\\20241203045102_ourteamtablecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\migrations\\20241203045102_ourteamtablecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\rault\\source\\repos\\purplebuzz\\purplebuzz\\purplebuzz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\purplebuzz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\rault\\source\\repos\\purplebuzz\\purplebuzz\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\rault\\source\\repos\\purplebuzz\\purplebuzz\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\rault\\source\\repos\\purplebuzz\\purplebuzz\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\rault\\source\\repos\\purplebuzz\\purplebuzz\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38E45827-2758-4F56-B56A-96397517DD0E}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "PurpleBuzz\\Controllers\\ServiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:02:12.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "RelativeToolTip": "PurpleBuzz\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T17:17:16.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "PurpleBuzz\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:16:57.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Models\\Service.cs",
+              "RelativeToolTip": "PurpleBuzz\\Models\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:15:29.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PurpleBuzz\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwDYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T16:57:29.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\DAL\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "PurpleBuzz\\DAL\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\DAL\\AppDBContext.cs",
+              "RelativeToolTip": "PurpleBuzz\\DAL\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:28:58.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "PurpleBuzz\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:56:49.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Areas\\Admin\\Views\\Work\\Index.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Areas\\Admin\\Views\\Work\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Areas\\Admin\\Views\\Work\\Index.cshtml",
+              "RelativeToolTip": "PurpleBuzz\\Areas\\Admin\\Views\\Work\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T17:17:25.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorkController.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Areas\\Admin\\Controllers\\WorkController.cs",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Areas\\Admin\\Controllers\\WorkController.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Areas\\Admin\\Controllers\\WorkController.cs",
+              "RelativeToolTip": "PurpleBuzz\\Areas\\Admin\\Controllers\\WorkController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:17:06.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Work.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Models\\Work.cs",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Models\\Work.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Models\\Work.cs",
+              "RelativeToolTip": "PurpleBuzz\\Models\\Work.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:15:40.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Program.cs",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Program.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Program.cs",
+              "RelativeToolTip": "PurpleBuzz\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:16:38.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "PurpleBuzz\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAADkBAAAAAAAAAAAUwFgBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T16:57:08.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "PurpleBuzz\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "PurpleBuzz\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-04T16:55:32.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PurpleBuzz\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T16:57:37.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\appsettings.json",
+              "RelativeDocumentMoniker": "PurpleBuzz\\appsettings.json",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\appsettings.json",
+              "RelativeToolTip": "PurpleBuzz\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T04:32:01.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OurTeam.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Models\\OurTeam.cs",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Models\\OurTeam.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Models\\OurTeam.cs",
+              "RelativeToolTip": "PurpleBuzz\\Models\\OurTeam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:30:04.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PurpleBuzz\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T16:57:46.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OurTeamController.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Controllers\\OurTeamController.cs",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Controllers\\OurTeamController.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Controllers\\OurTeamController.cs",
+              "RelativeToolTip": "PurpleBuzz\\Controllers\\OurTeamController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:40:37.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "PurpleBuzz\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAewB4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T04:23:39.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PurpleBuzz\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:16:27.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "PurpleBuzz\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:23:33.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PurpleBuzz\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T04:20:15.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PurpleBuzz\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T04:20:06.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PurpleBuzz\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAMwHEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T04:19:28.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241203045102_OurTeamTableCreate.cs",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Migrations\\20241203045102_OurTeamTableCreate.cs",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Migrations\\20241203045102_OurTeamTableCreate.cs",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Migrations\\20241203045102_OurTeamTableCreate.cs",
+              "RelativeToolTip": "PurpleBuzz\\Migrations\\20241203045102_OurTeamTableCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:51:02.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PurpleBuzz.csproj",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\PurpleBuzz.csproj",
+              "RelativeDocumentMoniker": "PurpleBuzz\\PurpleBuzz.csproj",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\PurpleBuzz.csproj",
+              "RelativeToolTip": "PurpleBuzz\\PurpleBuzz.csproj",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-03T04:18:15.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rault\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PurpleBuzz\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAAAEABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T04:16:35.469Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
